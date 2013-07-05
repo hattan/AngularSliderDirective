@@ -31,8 +31,7 @@
 
 .slide {
     margin-top: 20px;
-    margin-left: 20px;
-    width:250px;
+    margin-left:20px;
     background: gray;
     height:10px;
     border-radius:0;
@@ -52,4 +51,13 @@
     border-radius:0;
     background-color:black;
     background-image:none;
+}
+
+.sliderValue{
+  text-align: center;
+  width:50px;
+  padding:10px;
+  font-size:20pt;
+  margin-top:30px;
+  margin-left:20px;
 }
